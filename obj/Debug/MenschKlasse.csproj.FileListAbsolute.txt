@@ -1,0 +1,11 @@
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\bin\Debug\MenschKlasse.exe.config
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\bin\Debug\MenschKlasse.exe
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\bin\Debug\MenschKlasse.pdb
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.Form1.resources
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.Properties.Resources.resources
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.csproj.GenerateResource.cache
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.exe
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.pdb
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\MenschKlasse\MenschKlasse\obj\Debug\MenschKlasse.csproj.SuggestedBindingRedirects.cache
